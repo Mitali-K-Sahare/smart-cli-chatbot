@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Environment variables (API keys)
 .env
 
@@ -14,3 +15,12 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+=======
+.env
+__pycache__/
+*.pyc
+genai_env/
+.DS_Store
+~$*
+*.mp4
+>>>>>>> 49ff48a3bdb89d9f6c71f7d7e90e7bfa958e2f3e
